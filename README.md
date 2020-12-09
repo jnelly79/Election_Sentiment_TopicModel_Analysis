@@ -22,7 +22,7 @@ Code execution process.
 ## Project Files
 
 *   'py' files: Project Code.
-* 'data' folder: Data files.
+* 'main/datasets/' folder: Data files.
 * Election_sentiment_topicModel_analysis.pdf: Project Report.
 
 
