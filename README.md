@@ -23,6 +23,7 @@ Code execution process.
 
 *   'py' files: Project Code.
 * 'main/datasets/' folder: Data files.
+  * Note: I had to remove all the data files except for the final analysis because there was too much to upload.
 * Election_sentiment_topicModel_analysis.pdf: Project Report.
 
 
