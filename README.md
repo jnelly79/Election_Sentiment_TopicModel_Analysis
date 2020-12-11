@@ -13,6 +13,12 @@ Code execution process.
 7.   Execute data_combiner.py in the main directory.
 8.   Execute unsupervised_sentiment_topic_model.py in the main directory.
 
+## Findings
+1. https://datastudio.google.com/s/uUiYm_O1DOo
+2. https://datastudio.google.com/s/qCulWngvim8
+3. https://datastudio.google.com/s/hRXCjocmCw4
+4. https://datastudio.google.com/s/gTU9rZtnBKk
+5. https://datastudio.google.com/s/r6H1R5WYkOQ
 
 ## Project for Regis University MSDS696, Data Science Practicum II
 **James Nelson**
